@@ -6,3 +6,7 @@ A complete Python programming repository covering beginner to advanced concepts 
 ## Day 1 – Python Fundamentals
 
 This notebook introduces the fundamentals of Python programming through practical examples. It covers Python syntax, data types, arithmetic operators, comparison operators, logical operators, and type casting (type conversion). The notebook also demonstrates valid and invalid data type conversions with clear examples, helping beginners understand Python's core concepts and build a strong foundation for advanced programming.
+
+## Day 3 – Python Lists
+
+This notebook provides a comprehensive introduction to Python Lists through practical examples. It covers list creation, indexing, slicing, nested lists, updating elements, and essential list operations such as adding, removing, copying, merging, reversing, and sorting. The notebook also explores list iteration, `enumerate()`, `count()`, and Python's built-in `all()` and `any()` functions, enabling beginners to confidently work with one of Python's most powerful and widely used data structures.
