@@ -10,3 +10,7 @@ This notebook introduces the fundamentals of Python programming through practica
 ## Day 3 – Python Lists
 
 This notebook provides a comprehensive introduction to Python Lists through practical examples. It covers list creation, indexing, slicing, nested lists, updating elements, and essential list operations such as adding, removing, copying, merging, reversing, and sorting. The notebook also explores list iteration, `enumerate()`, `count()`, and Python's built-in `all()` and `any()` functions, enabling beginners to confidently work with one of Python's most powerful and widely used data structures.
+
+## Day 4 - Python Lists
+
+This notebook covers Python Lists from beginner to intermediate level. It includes list creation, indexing, updating elements, built-in methods (`append()`, `insert()`, `extend()`, `remove()`, `pop()`, `sort()`, `reverse()`, `count()`, `index()`, `copy()`, and `clear()`), along with practical examples to help understand how lists are used in real-world applications.
