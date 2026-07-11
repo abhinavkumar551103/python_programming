@@ -14,3 +14,9 @@ This notebook provides a comprehensive introduction to Python Lists through prac
 ## Day 4 - Python Lists
 
 This notebook covers Python Lists from beginner to intermediate level. It includes list creation, indexing, updating elements, built-in methods (`append()`, `insert()`, `extend()`, `remove()`, `pop()`, `sort()`, `reverse()`, `count()`, `index()`, `copy()`, and `clear()`), along with practical examples to help understand how lists are used in real-world applications.
+
+
+## Day 6 – Python Tuples
+
+This notebook provides a comprehensive introduction to **Python Tuples** through practical examples. It covers tuple creation, properties, indexing, negative indexing, slicing, nested tuples, tuple immutability, iteration using loops and `enumerate()`, membership operators (`in` and `not in`), finding element positions with the `index()` method, and sorting tuple elements using the `sorted()` function. The notebook also demonstrates working with different data types, nested structures, and real-world tuple operations to build a strong understanding of this immutable Python data structure.
+
