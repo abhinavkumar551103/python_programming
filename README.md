@@ -20,3 +20,8 @@ This notebook covers Python Lists from beginner to intermediate level. It includ
 
 This notebook provides a comprehensive introduction to **Python Tuples** through practical examples. It covers tuple creation, properties, indexing, negative indexing, slicing, nested tuples, tuple immutability, iteration using loops and `enumerate()`, membership operators (`in` and `not in`), finding element positions with the `index()` method, and sorting tuple elements using the `sorted()` function. The notebook also demonstrates working with different data types, nested structures, and real-world tuple operations to build a strong understanding of this immutable Python data structure.
 
+Day 14 – Python Sets & Dictionaries
+
+This notebook introduces Python Sets and Dictionaries through practical examples. It covers set creation, unique elements, mutability, membership testing, adding and removing elements, copying sets, and common set operations such as union, intersection, difference, symmetric difference, subset, superset, and disjoint checks.
+
+The notebook also begins the introduction to Python Dictionaries, including dictionary creation, storing key-value pairs, accessing keys, values, and items, creating dictionaries using dict() and fromkeys(), and working with nested data structures. Since this session focused on understanding core concepts, no assignment was provided.
