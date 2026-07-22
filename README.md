@@ -25,3 +25,9 @@ Day 14 – Python Sets & Dictionaries
 This notebook introduces Python Sets and Dictionaries through practical examples. It covers set creation, unique elements, mutability, membership testing, adding and removing elements, copying sets, and common set operations such as union, intersection, difference, symmetric difference, subset, superset, and disjoint checks.
 
 The notebook also begins the introduction to Python Dictionaries, including dictionary creation, storing key-value pairs, accessing keys, values, and items, creating dictionaries using dict() and fromkeys(), and working with nested data structures. Since this session focused on understanding core concepts, no assignment was provided.
+
+## Day 16 – NumPy Basics
+
+This notebook provides an introduction to **NumPy**, a powerful Python library widely used for numerical computing and Data Science. It covers importing NumPy, checking the NumPy and Python versions, creating NumPy arrays from Python lists, and understanding array data types. The notebook also explores important NumPy functions such as `np.arange()`, `np.zeros()`, `np.ones()`, `np.random.rand()`, and `np.random.randint()`, along with working with array shapes, rows, columns, and data types. Practical examples are included to build a strong foundation in NumPy and prepare for further Data Science and Machine Learning concepts.
+
+
