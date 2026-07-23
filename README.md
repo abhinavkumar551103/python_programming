@@ -30,4 +30,11 @@ The notebook also begins the introduction to Python Dictionaries, including dict
 
 This notebook provides an introduction to **NumPy**, a powerful Python library widely used for numerical computing and Data Science. It covers importing NumPy, checking the NumPy and Python versions, creating NumPy arrays from Python lists, and understanding array data types. The notebook also explores important NumPy functions such as `np.arange()`, `np.zeros()`, `np.ones()`, `np.random.rand()`, and `np.random.randint()`, along with working with array shapes, rows, columns, and data types. Practical examples are included to build a strong foundation in NumPy and prepare for further Data Science and Machine Learning concepts.
 
+## Day 17 – Complete NumPy
+
+This notebook provides a comprehensive overview of essential **NumPy** concepts and functions used in numerical computing and Data Science. It covers array creation using `np.array()`, `np.arange()`, `np.linspace()`, `np.zeros()`, `np.ones()`, and `np.eye()`. The notebook also explores array manipulation techniques such as reshaping, flattening using `np.ravel()`, transposing arrays, and vertically stacking arrays using `np.vstack()`.
+
+It further demonstrates mathematical and statistical operations including array addition, power, square root, dot product, mean, standard deviation, minimum, and maximum values. Linear algebra concepts are introduced using matrix determinants and inverse matrices with `np.linalg.det()` and `np.linalg.inv()`.
+
+The notebook also covers random sampling and reproducibility using `np.random`, `np.random.rand()`, `np.random.randint()`, and `np.random.seed()`. Boolean and logical operations using `np.all()` and `np.any()`, set operations using `np.intersect1d()` and `np.union1d()`, and important array attributes such as `shape`, `size`, `ndim`, and `dtype` are also explored. Finally, it demonstrates copying arrays with `np.copy()`, checking memory sharing using `np.shares_memory()`, and determining array memory consumption using `nbytes`.
 
